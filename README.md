@@ -7,7 +7,6 @@ Welcome to the Learning AI repository! This repository contains code and resourc
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
 - [Topics Covered](#topics-covered)
-- [Code Examples](#code-examples)
 - [Contributing](#contributing)
 
 ## Introduction
@@ -37,16 +36,7 @@ This repository covers a wide range of AI topics, including:
 
 Each topic is explained in detail with code examples and resources to help you understand the concepts better.
 
-## Code Examples
-
-Here are some of the code examples available in this repository:
-
-- [Linear Regression] (./ML/Linear Regression/linear_regression.ipynb)
-- [Convolutional Neural Networks](./code/cnn.py)
-- [Sentiment Analysis](./code/sentiment_analysis.ipynb)
-- [Reinforcement Learning with OpenAI Gym](./code/reinforcement_learning.py)
-
-Feel free to explore the code examples and modify them according to your needs.
+Feel free to explore and modify the code examples according to your needs.
 
 ## Contributing
 
