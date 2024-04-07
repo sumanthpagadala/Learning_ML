@@ -41,7 +41,7 @@ Each topic is explained in detail with code examples and resources to help you u
 
 Here are some of the code examples available in this repository:
 
-- [Linear Regression](Learning_AI/ML/Linear Regression/linear_regression.ipynb)
+- [Linear Regression](.Learning_AI/ML/Linear Regression/linear_regression.ipynb)
 - [Convolutional Neural Networks](./code/cnn.py)
 - [Sentiment Analysis](./code/sentiment_analysis.ipynb)
 - [Reinforcement Learning with OpenAI Gym](./code/reinforcement_learning.py)
